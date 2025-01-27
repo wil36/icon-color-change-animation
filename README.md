@@ -1,6 +1,6 @@
 # folder_icon_animation
 
-A new Flutter project.
+Change color icon folder in flutter
 
 ## Getting Started
 
